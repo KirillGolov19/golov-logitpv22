@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "golov logitpv22", "golov logitpv22.pyproj", "{38879644-AC5E-4FB3-B397-103FC25A5DA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38879644-AC5E-4FB3-B397-103FC25A5DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38879644-AC5E-4FB3-B397-103FC25A5DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79B459D4-D03A-4057-9ACF-405D9BF8EBC3}
+	EndGlobalSection
+EndGlobal
